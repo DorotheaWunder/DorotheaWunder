@@ -1,7 +1,7 @@
 ------------------------------------------------
 ## 🐱 Hi there, I'm Dorothea
-Software Developer | Game Developer & Designer | Cat Entertainer
 
+Software Developer | Game Developer & Designer | Cat Entertainer
 I’m passionate about creating games, systems, and classical “old-school” AI 
 ------------------------------------------------
 
