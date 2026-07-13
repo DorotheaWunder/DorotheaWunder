@@ -1,5 +1,9 @@
-## 🐱 Hi there 
+------------------------------------------------
+## 🐱 Hi there, I'm Dorothea
+Software Developer | Game Developer & Designer | Cat Entertainer
 
+I’m passionate about creating games, systems, and classical “old-school” AI 
+------------------------------------------------
 
 ## 🔍 Find me here
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dorothea-wunder-65a7a21a0)
