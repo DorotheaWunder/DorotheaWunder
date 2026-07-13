@@ -19,18 +19,12 @@ I’m passionate about creating games, systems, and classical “old-school” A
 -----------------------------------------------
 
 ## 🛠 Tech Stack
-
-### Languages
-- C#
-- TypeScript
-- JavaScript
-- SQL
-
-### Frameworks
-- Unity
-- React
-- Next.js
-- Prisma
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 <!--
 **DorotheaWunder/DorotheaWunder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
