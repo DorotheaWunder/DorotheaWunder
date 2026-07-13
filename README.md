@@ -51,6 +51,14 @@ I’m passionate about creating games, systems, and classical “old-school” A
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
+<!-- Large -->
+https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white
+
+<!-- Smaller -->
+https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white
+
+<!-- Smaller + square -->
+https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white
 
 <!--
 **DorotheaWunder/DorotheaWunder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
