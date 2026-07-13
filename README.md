@@ -12,6 +12,21 @@ I’m passionate about creating games, systems, and classical “old-school” A
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://dorotheawunderdesign.com)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anne.dorothea.wunder@gmail.com)
+
+## 🛠 Tech Stack
+
+### Languages
+- C#
+- TypeScript
+- JavaScript
+- SQL
+
+### Frameworks
+- Unity
+- React
+- Next.js
+- Prisma
+
 <!--
 **DorotheaWunder/DorotheaWunder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
