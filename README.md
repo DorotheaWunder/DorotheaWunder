@@ -1,21 +1,36 @@
 ------------------------------------------------
-## 🐱 Hi there, I'm Dorothea
+## Hi there, I'm Dorothea
 
-Software Developer | Game Developer & Designer | Cat Entertainer
+### 💻 Software Developer | 🎮 Game Developer & Designer | 🐱Cat Entertainer 
 
-I’m passionate about creating games, systems, and classical “old-school” AI 
+#### I’m passionate about creating games, systems, and classical “old-school” AI 
+------------------------------------------------
+
+- <b>Location</b>: Stockholm, Sweden
+  
+- <b>Current Occupation</b>: Software & Game Developer - We Know IT Sweden AB
+    
+- <b>Education</b>:
+  - Forsbergs Skola
+  - PlaygroundSquad
+    
+- <b>Current Projects</b>:
+  - Monster Office
+  - Cat Shelter Memory Game
+
 ------------------------------------------------
 
 ## 🔍 Find me here
 <p align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dorothea-wunder-65a7a21a0)
   
-<[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dorothea-wunder-65a7a21a0)>
-  
-<[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://dorotheawunderdesign.com)>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://dorotheawunderdesign.com)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anne.dorothea.wunder@gmail.com)
 
 </p>
+
 -----------------------------------------------
 
 ## 🛠 Tech Stack
